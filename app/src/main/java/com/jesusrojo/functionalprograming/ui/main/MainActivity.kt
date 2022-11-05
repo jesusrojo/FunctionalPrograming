@@ -6,6 +6,7 @@ import com.jesusrojo.functionalprograming.R
 
 class MainActivity : AppCompatActivity() {
 
+    //add on web
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
