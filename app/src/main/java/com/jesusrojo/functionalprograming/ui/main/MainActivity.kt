@@ -1,8 +1,8 @@
-package com.jesusrojo.functionalprograming
+package com.jesusrojo.functionalprograming.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.jesusrojo.functionalprograming.ui.main.MainFragment
+import com.jesusrojo.functionalprograming.R
 
 class MainActivity : AppCompatActivity() {
 

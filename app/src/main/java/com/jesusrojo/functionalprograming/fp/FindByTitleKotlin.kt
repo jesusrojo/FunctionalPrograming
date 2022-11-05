@@ -1,4 +1,4 @@
-package com.jesusrojo.functionalprograming.ui.main.fp
+package com.jesusrojo.functionalprograming.fp
 
 // https://hackernoon.com/functional-programming-by-example-with-kotlin-27fd7e49b55f
 // https://github.com/jacquesgiraudel/IntroPgmFonct/commits/master

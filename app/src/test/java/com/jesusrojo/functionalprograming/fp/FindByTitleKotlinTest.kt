@@ -1,4 +1,4 @@
-package com.jesusrojo.functionalprograming.ui.main.fp
+package com.jesusrojo.functionalprograming.fp
 
 import org.hamcrest.Matchers.empty
 import org.hamcrest.core.Is
